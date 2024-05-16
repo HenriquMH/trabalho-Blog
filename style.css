@@ -1,0 +1,101 @@
+body {
+    background-color: #212529;
+}
+
+.nave p {
+    margin-top: 1em;
+}
+
+.carousel-caption {
+    text-align: left;
+}
+
+.carousel-caption .sobre {
+    margin-right: 25%;
+}
+
+.carousel-inner img{ 
+    filter: brightness(75%); 
+}
+
+.fundo-lanca {
+    background-color: #16181b;
+}
+
+.img-capa {
+    width: 100%;
+    aspect-ratio: 3/4;
+    background-image: url(/imgs/sakurai.jpeg);
+    background-size: cover;
+}
+.info {
+    margin-top: 8px;
+}
+
+.info p {
+    font-size: 0.8em;
+    background-color: rgba(92, 92, 92, 0.41);
+    margin-right: 10px;
+}
+
+.info p b {
+    font-size: 1.2em;
+}
+
+.estado {
+    background-color: rgba(28, 28, 28, 0.75);
+    width: fit-content;
+    font-size: 1em;
+}
+
+/*                  LADO                */
+
+.fundo-visto {
+    background-color: #16181b;
+}
+
+.img-mais-vistos {
+    width: 100%;
+    aspect-ratio: 4/3;
+    background-image: url(/imgs/reencarnacao-do-mais-forte-deus-da-espada.jpeg);
+    background-size: cover;
+}
+
+/**/
+
+.img-capa-novel {
+    width: 50%;
+    height: auto;
+    aspect-ratio: 3/4;
+    background-image: url(/imgs/sakurai.jpeg);
+    background-size: cover;
+}
+.estado-novel {
+    margin-top: 0;
+    margin-bottom: 0.0rem;
+}
+.caps-novel {
+    margin-top: 0;
+    margin-bottom: 0.7rem;
+}
+.capitulos-ler {
+    border-radius: 50px 50px 0px 0px;
+}
+.capitulos {
+    border-radius: 30px;
+    border: #F8F9FA 2px solid;
+}
+.capitulos-esquerda {
+    border-bottom: #F8F9FA 2px solid;
+    border-right: #F8F9FA 1px solid;
+}
+.capitulos-direita {
+    border-bottom: #F8F9FA 2px solid;
+    border-left: #F8F9FA 1px solid;
+}
+.capitulos-esquerda-baixo {
+    border-right: #F8F9FA 1px solid;
+}
+.capitulos-direita-baixo {
+    border-left: #F8F9FA 1px solid;
+}
