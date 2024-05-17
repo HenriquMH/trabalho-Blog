@@ -25,7 +25,7 @@ body {
 .img-capa {
     width: 100%;
     aspect-ratio: 3/4;
-    background-image: url(../imgs/sakurai.jpeg);
+    background-image: url(./imgs/sakurai.jpeg);
     background-size: cover;
 }
 .info {
