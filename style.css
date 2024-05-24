@@ -2,6 +2,14 @@ body {
     background-color: #212529;
 }
 
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
 .nave p {
     margin-top: 1em;
 }
